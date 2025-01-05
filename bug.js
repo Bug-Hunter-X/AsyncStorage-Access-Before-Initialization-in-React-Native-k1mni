@@ -1,0 +1,1 @@
+This error occurs when using AsyncStorage in React Native. The issue stems from trying to access AsyncStorage before it's fully initialized, often during the initial app load.  This can lead to unexpected behavior, crashes, or silent failures.
